@@ -11,6 +11,7 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello world for GitHub!");
             Console.WriteLine("Adding another line.");
+            Console.WriteLine(Utilities.String1());
         }
     }
 }
