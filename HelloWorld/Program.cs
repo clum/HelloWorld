@@ -10,6 +10,7 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world for GitHub!");
+            Console.WriteLine("Adding another line.");
         }
     }
 }
